@@ -1,0 +1,19 @@
+Presione una tecla para continuar . . . 
+El tamaño de char es: 8 bits
+
+El tamaño de unsigned char es: 8 bits
+
+El tamaño de short int es: 16 bits
+
+El tamaño de unsigned int es: 16 bits
+
+El tamaño de long int es: 32 bits
+
+El tamaño de unsigned long int es: 32 bits
+
+El tamaño de float es: 32.000000 bits
+
+El tamaño de double es: 64.000000 bits
+
+El tamaño de long double es: 96 bits
+
