@@ -1,4 +1,4 @@
-esto es un programa de busqueda de palabras y coincidencias de partes de 
+Ésto es un programa de busqueda de palabras y coincidencias de partes de 
 palabra en un fichero de texto.
 Si encuentra alguna palabra o coincidencia lo muestra por pantalla y lo 
 transcribe al fichero en mayusculas. 
